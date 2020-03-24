@@ -1,0 +1,5 @@
+/APA_ML/processed/
+/pytorch_models/
+/__pycache__/
+*.swp
+/sync.sh
