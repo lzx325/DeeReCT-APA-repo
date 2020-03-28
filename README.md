@@ -5,7 +5,7 @@
 </div>
 This repository contains the implementation of DeeReCT-APA from 
 
-[paper name]
+Li,Zhongxiao, et al. "DeeReCT-APA: Prediction of Alternative Polyadenylation Site Usage Through Deep Learning" bioRxiv, 2020
 
 If you use our work in your research, please cite  out paper
 
