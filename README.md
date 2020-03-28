@@ -8,8 +8,17 @@ This repository contains the implementation of DeeReCT-APA from
 Li,Zhongxiao, et al. "DeeReCT-APA: Prediction of Alternative Polyadenylation Site Usage Through Deep Learning" bioRxiv, 2020
 
 If you use our work in your research, please cite  out paper
-
-[bibtex]
+```
+@article {Li2020.03.26.009373,
+	author = {Li, Zhongxiao and Li, Yisheng and Zhang, Bin and Li, Yu and Long, Yongkang and Zhou, Juexiao and Zou, Xudong and Zhang, Min and Hu, Yuhui and Chen, Wei and Gao, Xin},
+	title = {DeeReCT-APA: Prediction of Alternative Polyadenylation Site Usage Through Deep Learning},
+	elocation-id = {2020.03.26.009373},
+	year = {2020},
+	doi = {10.1101/2020.03.26.009373},
+	publisher = {Cold Spring Harbor Laboratory},
+	journal = {bioRxiv}
+}
+```
 
 ## Dataset Description
 The datasets used in training is stored under `APA_ML/`. The parental datasets are in `APA_ML/Parental` and the F1 datasets are in `APA_ML/F1`.
